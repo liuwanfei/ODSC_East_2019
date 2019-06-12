@@ -1,0 +1,14 @@
+__pycache__/
+.DS_Store
+.vscode
+/**/.ipynb_checkpoints
+/**/data
+/**/models
+/**/other
+*.npz
+*.csv
+*.tar.gz
+*.db
+*.yaml*
+docker.sh
+.venv
