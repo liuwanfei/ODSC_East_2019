@@ -3,6 +3,6 @@ kfp==0.1.16
 psycopg2-binary==2.7.5
 Pillow==5.2.0
 numpy==1.16.2
-requests==2.21.0
+requests==2.31.0
 tqdm==4.23.0
 hydrosdk==2.0.0rc8
